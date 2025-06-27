@@ -1,4 +1,4 @@
-# 🧪 React Native Technical Challenge: Personal Finance Tracker App
+#  React Native Technical Challenge: Personal Finance Tracker App
 
 ## 🎯 Objective
 
