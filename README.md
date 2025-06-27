@@ -4,6 +4,8 @@
 
 Build a **React Native** mobile app that allows users to track their personal finances. The app should allow users to manage **income**, **expenses**, and **monthly budgets**, and give a clear overview of their financial balance.
 
+> 📝 **Note:** You do **not** need to build a backend. You can store the data locally using any solution you prefer (e.g., AsyncStorage, SQLite, filesystem, etc.).
+
 ---
 
 ## 📚 User Stories
@@ -75,7 +77,7 @@ You may use any of the following:
 ## ✅ Bonus Points
 
 - Unit and/or integration tests using Jest and React Native Testing Library
-- Offline support or local caching using AsyncStorage or MMKV
+- Offline support or local caching using AsyncStorage or SQLite
 - TypeScript support
 - Responsive layout and polished UI/UX
 - E2E testing with Detox (optional)
